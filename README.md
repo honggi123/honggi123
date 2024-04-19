@@ -2,8 +2,8 @@
 #### 안녕하세요👐<br>
 아래는 부트캠프에서 진행했던 프로젝트들 입니다. <br>
 - series-collection : 개인 프로젝트 <br>
-- design-patterns : 디자인 패턴 학습 <br>
-- sunflower : 구글 공식 프로젝트 클론 <br>  
+- DesignPatterns : 디자인 패턴 학습 <br>
+- Sunflower : 구글 공식 프로젝트 클론 <br>  
 
 
 <!--
