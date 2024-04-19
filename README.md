@@ -1,10 +1,9 @@
 
 #### 안녕하세요👐<br>
-아래는 부트캠프에서 진행했던 프로젝트들 입니다. <br>
-- series-collection : 개인 프로젝트 <br>
+아래는 부트캠프에서 진행했던 개인 프로젝트 입니다. <br>
+- series-collection : 유튜브 시리즈를 모아서 보여주는 앱 <br>
 - DesignPatterns : 디자인 패턴 학습 <br>
 - Sunflower : 구글 공식 프로젝트 클론 <br>  
-
 
 <!--
 **honggi123/honggi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
