@@ -3,7 +3,7 @@
 
 - 더 나은 코드에 대해서 고민 합니다. 
 - 사용자 경험을 개선 시키는 것에 큰 관심을 갖고 있습니다.
-- 역량 향상에 관심이 많습니다. 🔥
+- 개발자로서 어떻게 성장을 해야할까 고민을 하며 살아가고 있습니다. 🔥
 
 ## 📌 Project 
 
@@ -16,7 +16,7 @@
 #### 부트캠프 진행 개인 프로젝트 
 
 - [Series Collection](https://github.com/honggi123/series-collection) - 유튜브 시리즈를 모아서 보여주는 앱 (부트캠프 종료 후에도 지속적으로 개선중) <br>
-- [DesignPatterns](https://github.com/honggi123/DesignPatterns) - 디자인 패턴 학습 <br>
+- [DesignPatterns](https://github.com/honggi123/DesignPatterns) - 디자인 패턴 학습 (헤드 퍼스트 디자인 패턴) <br>
 - [Sunflower](https://github.com/honggi123/Sunflower) - 클론 프로젝트 <br>  
 
 <!--
