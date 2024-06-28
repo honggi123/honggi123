@@ -8,13 +8,12 @@
 
 ## 📌 Project 
 
-#### 출시 프로젝트 
+#### 프로젝트 
 - [CoinWatch](https://play.google.com/store/apps/details?id=com.hong7.coinnews&hl=ko&gl=US) - 코인 뉴스를 모아서 보여주는 서비스  <br> 
+- [StudyDay](https://github.com/honggi123/StudyDay) - 영상 통화를 하며 함께 공부하는 서비스 (현재 서비스 x)
+- [Mommydndn](https://github.com/honggi123/mommydndn-aos-login) - 구인 / 구직 플랫폼 <br> 
 
-#### 사이드 프로젝트
-- Mommydndn - 구인 / 구직 플랫폼 <br> 
-
-#### 부트캠프 진행 개인 프로젝트 
+#### 부트캠프 개인 프로젝트 
 
 - [Series Collection](https://github.com/honggi123/series-collection) - 유튜브 시리즈를 모아서 보여주는 앱 (부트캠프 종료 후에도 지속적으로 개선중) <br>
 - [DesignPatterns](https://github.com/honggi123/DesignPatterns) - 디자인 패턴 학습 (헤드 퍼스트 디자인 패턴) <br>
